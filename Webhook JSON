@@ -42,6 +42,6 @@
     "itemMAX_5": "{{issue.fields.customfield_11016.Max Samples Per Box}}",
     "phiCollect": "{{issue.fields.customfield_11028}}",
     "phiShipping": "{{issue.fields.customfield_11029}}",
-    "proposal_number": "{{}}"
+    "proposal_number": "{{issue.fields.customfield_0000}}"
   }
 }

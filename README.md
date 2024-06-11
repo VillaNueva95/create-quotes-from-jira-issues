@@ -34,8 +34,7 @@ This Flask application listens for JIRA webhook events to automate the processin
 ## Create Config.py page
 
 This script uses a separate python page to save sensative information such as API Tokens, passwords, etc.
-
-To replicate the following flask app, convert config.txt file to config.py and define objects. 
+ 
 
 
 
